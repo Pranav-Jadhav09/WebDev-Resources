@@ -89,7 +89,7 @@ Choose the one which you like or are comfortable with:
 
 ## Practice Projects
 
-[Projects Repo 👉🏻](https://jrpranav.com) This is the repository link specially dedicated to all the projects I've made while learning web development.
+[Projects Repo 👉🏻](https://github.com/Pranav-Jadhav09/WebVerse) This is the repository link specially dedicated to all the projects I've made while learning web development.
 
 <br />
 
