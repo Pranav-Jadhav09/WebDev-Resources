@@ -10,7 +10,7 @@ This repository contains a curated list of study resources for **_Web Developmen
 
 <br />
 
-### Used This Method **_Learn 👉🏻 Create 👉🏻 Launch 👉🏻 Iterate_**
+### Used This Method | **_Learn 👉🏻 Create 👉🏻 Launch 👉🏻 Iterate_**
 
 <br />
 
