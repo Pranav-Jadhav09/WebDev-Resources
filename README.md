@@ -34,7 +34,7 @@ Choose the one which you like or are comfortable with:
 | Back-end Development  | [Roadmap](https://roadmap.sh/backend)                           |
 | JavaScript + PHP      | [Roadmap](http://rpadmap-js-php-site.onrender.com)              |
 | No Code Tools v1      | [Roadmap](https://github.com/kairichard/awesome-nocode-lowcode) |
-| No Code Tools v2      | [Roadmap](https://github.com/ElijT/Awesome-no-code-tools)       |
+
 
 <br />
 
