@@ -62,6 +62,24 @@ Choose the one which you like or are comfortable with:
 
 <br />
 
+## Top 10 Repo To Learn JavaScript
+
+| Repository Name                    | Repository Link                                     |
+|-----------------------------------|-----------------------------------------------------|
+| 33-js-concepts                    | [GitHub](https://github.com/leonardomso/33-js-concepts) |
+| javascript-questions              | [GitHub](https://github.com/lydiahallie/javascript-questions) |
+| You-Dont-Know-JS                  | [GitHub](https://github.com/getify/You-Dont-Know-JS) |
+| airbnb/javascript                 | [GitHub](https://github.com/airbnb/javascript)     |
+| tech-interview-handbook           | [GitHub](https://github.com/yangshun/tech-interview-handbook) |
+| Javascript (Algorithms)           | [GitHub](https://github.com/TheAlgorithms/Javascript) |
+| awesome-javascript                | [GitHub](https://github.com/sorrycc/awesome-javascript) |
+| wtfjs                             | [GitHub](https://github.com/denysdovhan/wtfjs)      |
+| JavaScript Tips                   | [Gist](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) |
+| free-programming-books            | [GitHub](https://github.com/EbookFoundation/free-programming-books) |
+
+
+<br />
+
 ## Best YouTube Playlists to learn Web Development
 
 | Language / Tools         | Playlist                                                                        | Channel Name  |
