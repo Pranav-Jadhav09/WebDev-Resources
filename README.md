@@ -89,7 +89,7 @@ Choose the one which you like or are comfortable with:
 | ------------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------- |
 | HTML & CSS               | [Playlist](https://www.youtube.com/watch?v=G3e-cpL7ofc)                                         | SuperSimpleDev                  |
 | JavaScript               | [Playlist](https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6)                 | SuperSimpleDev                  |
-| Understanding JavaScript | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | Akshay Saini                    |
+| Understanding JavaScript | [Playlist](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)                 | Akshay Saini                    |
 | TypeScript               | [Video](https://www.youtube.com/watch?v=30LWjhZzg50)                                         | FreeCodeCamp (Hitesh Choudhary) |
 | Tailwind CSS             | [Playlist](https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) | Net Ninja                       |
 | Bootstrap CSS            | [Playlist](https://www.youtube.com/watch?v=O_9u1P5YjVc&list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) | Net Ninja                       |
