@@ -88,7 +88,7 @@ Choose the one which you like or are comfortable with:
 | Language / Tools         | Playlist                                                                                        | Channel Name                    |
 | ------------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------- |
 | HTML & CSS               | [Playlist](https://www.youtube.com/watch?v=G3e-cpL7ofc)                                         | SuperSimpleDev                  |
-| JavaScript               | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | SuperSimpleDev                  |
+| JavaScript               | [Playlist](https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6)                 | SuperSimpleDev                  |
 | Understanding JavaScript | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | Akshay Saini                    |
 | TypeScript               | [Video](https://www.youtube.com/watch?v=30LWjhZzg50)                                         | FreeCodeCamp (Hitesh Choudhary) |
 | Tailwind CSS             | [Playlist](https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) | Net Ninja                       |
