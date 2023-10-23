@@ -28,13 +28,16 @@ This is What I Followed: [Codedamn Full Stack Roadmap](https://codedamn.com/lear
 
 Choose the one which you like or are comfortable with:
 
-| Stack                 | Link                                                            |
-| --------------------- | --------------------------------------------------------------- |
-| Front-end Development | [Roadmap](https://roadmap.sh/frontend)                          |
-| Back-end Development  | [Roadmap](https://roadmap.sh/backend)                           |
-| Full Stack Development| [Roadmap](https://roadmap.sh/full-stack)                      |
-
-
+| Stack                  | Link                                     |
+| ---------------------- | ---------------------------------------- |
+| Front-end Development  | [Roadmap](https://roadmap.sh/frontend)   |
+| Back-end Development   | [Roadmap](https://roadmap.sh/backend)    |
+| Full Stack Development | [Roadmap](https://roadmap.sh/full-stack) |
+| JavaScript             | [Roadmap](https://roadmap.sh/javascript) |
+| TypeScript             | [Roadmap](https://roadmap.sh/typescript) |
+| React.js               | [Roadmap](https://roadmap.sh/react)      |
+| Node.js                | [Roadmap](https://roadmap.sh/nodejs)     |
+| MongoDB                | [Roadmap](https://roadmap.sh/mongodb)    |
 
 <br />
 
@@ -64,45 +67,44 @@ Choose the one which you like or are comfortable with:
 
 ## Top 10 Repo To Learn JavaScript
 
-| Repository Name                    | Repository Link                                     |
-|-----------------------------------|-----------------------------------------------------|
-| 33-js-concepts                    | [GitHub](https://github.com/leonardomso/33-js-concepts) |
-| javascript-questions              | [GitHub](https://github.com/lydiahallie/javascript-questions) |
-| You-Dont-Know-JS                  | [GitHub](https://github.com/getify/You-Dont-Know-JS) |
-| airbnb/javascript                 | [GitHub](https://github.com/airbnb/javascript)     |
-| tech-interview-handbook           | [GitHub](https://github.com/yangshun/tech-interview-handbook) |
-| Javascript (Algorithms)           | [GitHub](https://github.com/TheAlgorithms/Javascript) |
-| awesome-javascript                | [GitHub](https://github.com/sorrycc/awesome-javascript) |
-| wtfjs                             | [GitHub](https://github.com/denysdovhan/wtfjs)      |
-| JavaScript Tips                   | [Gist](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) |
-| free-programming-books            | [GitHub](https://github.com/EbookFoundation/free-programming-books) |
-
+| Repository Name         | Repository Link                                                        |
+| ----------------------- | ---------------------------------------------------------------------- |
+| 33-js-concepts          | [GitHub](https://github.com/leonardomso/33-js-concepts)                |
+| javascript-questions    | [GitHub](https://github.com/lydiahallie/javascript-questions)          |
+| You-Dont-Know-JS        | [GitHub](https://github.com/getify/You-Dont-Know-JS)                   |
+| airbnb/javascript       | [GitHub](https://github.com/airbnb/javascript)                         |
+| tech-interview-handbook | [GitHub](https://github.com/yangshun/tech-interview-handbook)          |
+| Javascript (Algorithms) | [GitHub](https://github.com/TheAlgorithms/Javascript)                  |
+| awesome-javascript      | [GitHub](https://github.com/sorrycc/awesome-javascript)                |
+| wtfjs                   | [GitHub](https://github.com/denysdovhan/wtfjs)                         |
+| JavaScript Tips         | [Gist](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) |
+| free-programming-books  | [GitHub](https://github.com/EbookFoundation/free-programming-books)    |
 
 <br />
 
 ## Best YouTube Playlists to learn Web Development
 
-| Language / Tools         | Playlist                                                                        | Channel Name  |
-| ------------------------ | ------------------------------------------------------------------------------- | ------------- |
+| Language / Tools         | Playlist                                                                        | Channel Name   |
+| ------------------------ | ------------------------------------------------------------------------------- | -------------- |
 | HTML & CSS               | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Dave Gray      |
-| JavaScript               | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | ChaiAurCode   |
-| Understanding JavaScript | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Akshay Saini  |
-| Tailwind CSS             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
-| Bootstrap CSS            | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | C             |
-| React.js                 | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
-| Back-end Development     | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
-| Git & GitHub     | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Kunal Kushwaha      |
-| PHP Development          | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CodewithHarry |
-| WebXR                    | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
-| WebGL                    | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
-| Web Assembly             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
-| Chrome DevTools          | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
-| ChatBot Development      | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX      |
-| Web Security             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX      |
-| WordPress                | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Jim Fahad     |
-| Editor X                 | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CreativeX     |
-| Webflow                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX      |
-| Shopify                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX      |
+| JavaScript               | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | ChaiAurCode    |
+| Understanding JavaScript | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Akshay Saini   |
+| Tailwind CSS             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
+| Bootstrap CSS            | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | C              |
+| React.js                 | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
+| Back-end Development     | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
+| Git & GitHub             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Kunal Kushwaha |
+| PHP Development          | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CodewithHarry  |
+| WebXR                    | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
+| WebGL                    | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
+| Web Assembly             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
+| Chrome DevTools          | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
+| ChatBot Development      | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX         |
+| Web Security             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX         |
+| WordPress                | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Jim Fahad      |
+| Editor X                 | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CreativeX      |
+| Webflow                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX         |
+| Shopify                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX         |
 
 <br />
 
