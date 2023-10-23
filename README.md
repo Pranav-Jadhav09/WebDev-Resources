@@ -84,18 +84,21 @@ Choose the one which you like or are comfortable with:
 
 ## Best YouTube Playlists to learn Web Development
 
-| Language / Tools         | Playlist                                                                        | Channel Name   |
-| ------------------------ | ------------------------------------------------------------------------------- | -------------- |
-| HTML & CSS               | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Dave Gray      |
-| JavaScript               | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | ChaiAurCode    |
-| Understanding JavaScript | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Akshay Saini   |
-| Tailwind CSS             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
-| Bootstrap CSS            | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | C              |
-| React.js                 | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
-| Back-end Development     | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
-| Git & GitHub             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Kunal Kushwaha |
-| PHP Development          | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CodewithHarry  |
-| WebXR                    | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
+| Language / Tools         | Playlist                                                                                        | Channel Name   |
+| ------------------------ | ----------------------------------------------------------------------------------------------- | -------------- |
+| HTML & CSS               | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | Dave Gray      |
+| JavaScript               | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | SuperSimpleDev |
+| Understanding JavaScript | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | Akshay Saini   |
+| Tailwind CSS             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | Codedamn       |
+| Bootstrap CSS            | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | C              |
+| React.js                 | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | Codedamn       |
+| Node.js                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | Codedamn       |
+| Git & GitHub             | [Playlist](https://www.youtube.com/watch?v=apGV9Kg7ics)                                         | Kunal Kushwaha |
+| Java & DSA               | [Playlist](https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) | Kunal Kushwaha |
+| DevOps Bootcamp          | [Playlist](https://www.youtube.com/watch?v=ZbG0c87wcM8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) | Kunal Kushwaha |
+| Open Source Course       | [Playlist](https://www.youtube.com/watch?v=inZUgh8p1d4&list=PL9gnSGHSqcnq3Px3IAYF7yxeWGWrSdHK8) | Kunal Kushwaha |
+
+<!-- | WebXR                    | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
 | WebGL                    | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
 | Web Assembly             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
 | Chrome DevTools          | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn       |
@@ -104,7 +107,7 @@ Choose the one which you like or are comfortable with:
 | WordPress                | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Jim Fahad      |
 | Editor X                 | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CreativeX      |
 | Webflow                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX         |
-| Shopify                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX         |
+| Shopify                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX         | -->
 
 <br />
 
