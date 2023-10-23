@@ -11,6 +11,7 @@ This repository contains a curated list of study resources for **_Web Developmen
 <br />
 
 <!-- banner iteration -->
+![method to learn](./bannernow1.png)
 
 <br />
 
