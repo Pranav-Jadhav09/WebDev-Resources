@@ -32,7 +32,7 @@ Choose the one which you like or are comfortable with:
 | --------------------- | --------------------------------------------------------------- |
 | Front-end Development | [Roadmap](https://roadmap.sh/frontend)                          |
 | Back-end Development  | [Roadmap](https://roadmap.sh/backend)                           |
-| Full Stack Development  | [Roadmap](https://roadmap.sh/full-stack)                           |
+| Full Stack Development| [Roadmap](https://roadmap.sh/full-stack)                      |
 
 
 
@@ -84,24 +84,25 @@ Choose the one which you like or are comfortable with:
 
 | Language / Tools         | Playlist                                                                        | Channel Name  |
 | ------------------------ | ------------------------------------------------------------------------------- | ------------- |
-| HTML & CSS               | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
+| HTML & CSS               | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Dave Gray      |
 | JavaScript               | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | ChaiAurCode   |
 | Understanding JavaScript | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Akshay Saini  |
 | Tailwind CSS             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
 | Bootstrap CSS            | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | C             |
 | React.js                 | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
 | Back-end Development     | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
+| Git & GitHub     | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Kunal Kushwaha      |
 | PHP Development          | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CodewithHarry |
 | WebXR                    | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
 | WebGL                    | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
 | Web Assembly             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
 | Chrome DevTools          | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
-| ChatBot Development      | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
-| Web Security             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
+| ChatBot Development      | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX      |
+| Web Security             | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX      |
 | WordPress                | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Jim Fahad     |
 | Editor X                 | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CreativeX     |
-| Webflow                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
-| Shopify                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | Codedamn      |
+| Webflow                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX      |
+| Shopify                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB) | CoderX      |
 
 <br />
 
