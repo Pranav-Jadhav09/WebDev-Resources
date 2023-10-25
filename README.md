@@ -93,11 +93,6 @@ Choose the one which you like or are comfortable with:
 | TypeScript               | [Video](https://www.youtube.com/watch?v=30LWjhZzg50)                                         | FreeCodeCamp (Hitesh Choudhary) |
 | Tailwind CSS             | [Playlist](https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) | Net Ninja                       |
 | Bootstrap CSS            | [Playlist](https://www.youtube.com/watch?v=O_9u1P5YjVc&list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) | Net Ninja                       |
-| React.js                 | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | Codedamn                        |
-| Next.js                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | Codedamn                        |
-| Node.js                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | Codedamn                        |
-| Express.js               | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | Codedamn                        |
-| MongoDB                  | [Playlist](http://youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)                 | Codedamn                        |
 | Git & GitHub             | [Video](https://www.youtube.com/watch?v=apGV9Kg7ics)                                            | Kunal Kushwaha                  |
 | DevOps Bootcamp          | [Playlist](https://www.youtube.com/watch?v=ZbG0c87wcM8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) | Kunal Kushwaha                  |
 | Open Source Course       | [Playlist](https://www.youtube.com/watch?v=inZUgh8p1d4&list=PL9gnSGHSqcnq3Px3IAYF7yxeWGWrSdHK8) | Kunal Kushwaha                  |
