@@ -6,7 +6,9 @@
 
 </div>
 
-This repository contains a curated list of study resources for **_Web Development_**. Whether you're a beginner or an experienced developer, you'll find valuable resources to enhance your skills and knowledge in this domains.
+
+> [!NOTE]
+> This repository contains a curated list of study resources for **_Web Development_**. Whether you're a beginner or an experienced developer, you'll find valuable resources to enhance your skills and knowledge in this domains.
 
 <br />
 
@@ -15,21 +17,21 @@ This repository contains a curated list of study resources for **_Web Developmen
 
 <br />
 
-## Aim
+## 👨🏼‍💻 Aim
 
 
-- The **_aim_** of a **_Web Developer_** is to create functional, secure, and efficient websites and <b>Websites, Landing Pages, Web Applications, ChatBots, eCommerce Web Apps</b> that meet client and user requirements.
+> The **_aim_** of a **_Web Developer_** is to create functional, secure, and efficient websites and <b>Websites, Landing Pages, Web Applications, ChatBots, eCommerce Web Apps</b> that meet client and user requirements.
 
-- On this earth we can make Website / Web App by using **_Code_** and **_No-Code_** tools.
+> On this earth we can make Website / Web App by using **_Code_** and **_No-Code_** tools.
 
-- Checkout [Roadmap](https://roadmap.sh) for roadmap related to different departments.
+> Checkout [Roadmap](https://roadmap.sh) for roadmap related to different departments.
 
-- This is What I Followed: [Codedamn Full Stack Roadmap](https://codedamn.com/learning-path/fullstack)
+> This is What I Followed: [Codedamn Full Stack Roadmap](https://codedamn.com/learning-path/fullstack)
 
 
 <br />
 
-## Documentation
+## Official Docs
 
 | Resource                                 | Link                                                                                                                                                                                      | Skills                          |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
@@ -40,7 +42,7 @@ This repository contains a curated list of study resources for **_Web Developmen
 
 <br />
 
-## Best Courses I Personally Took
+## Courses
 
 | Stack                | Link                       |  Instructor        |
 | -------------------- | ------------------------------ | ----------------- |
@@ -69,7 +71,7 @@ This repository contains a curated list of study resources for **_Web Developmen
 
 <br />
 
-## Best YouTube Playlists to learn Web Development
+## Best YouTube Playlists
 
 | Language / Tools         | Playlist                                                                                        | Channel Name                    |
 | ------------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------- |
