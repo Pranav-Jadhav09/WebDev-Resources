@@ -96,14 +96,5 @@ Choose the one which you like or are comfortable with:
 | DevOps Bootcamp          | [Playlist](https://www.youtube.com/watch?v=ZbG0c87wcM8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) | Kunal Kushwaha                  |
 | Open Source Course       | [Playlist](https://www.youtube.com/watch?v=inZUgh8p1d4&list=PL9gnSGHSqcnq3Px3IAYF7yxeWGWrSdHK8) | Kunal Kushwaha                  |
 
-<br />
 
-## Practice Projects
 
-[Projects Repo 👉🏻](https://github.com/Pranav-Jadhav09/WebVerse) This is the repository link specially dedicated to all the projects I've made while learning web development.
-
-<br />
-
-## LICENSE
-
-[MIT LICENSE](./LICENSE)
