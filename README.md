@@ -48,7 +48,6 @@ Choose the one which you like or are comfortable with:
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
 | MDN Web Docs - HTML, CSS, and JavaScript | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | Web Development Basics          |
 | React Documentation                      | [React Docs](https://reactjs.org/docs/getting-started.html)                                                                                                                               | React Framework                 |
-| Angular Documentation                    | [Angular Docs](https://angular.io/docs)                                                                                                                                                   | Angular Framework               |
 | Node.js Documentation                    | [Node.js Docs](https://nodejs.org/en/docs/)                                                                                                                                               | Backend Development, Node.js    |
 | Express.js Documentation                 | [Express.js Docs](https://expressjs.com/en/starter/installing.html)                                                                                                                       | Backend Development, Express.js |
 
@@ -56,13 +55,13 @@ Choose the one which you like or are comfortable with:
 
 ## Best Courses I Personally Took
 
-| Stack                | Platform                       | Course Link                      | Instructor        |
-| -------------------- | ------------------------------ | -------------------------------- | ----------------- |
-| HTML & CSS           | [Udemy](https://www.udemy.com) | [Course](https://www.udemy.com/) | Jonas Schmedtmann |
-| JavaScript           | [Udemy](https://www.udemy.com) | [Course](https://www.udemy.com/) | Jonas Schmedtmann |
-| Front-end (React.js) | [Udemy](https://www.udemy.com) | [Course](https://www.udemy.com/) | Jonas Schmedtmann |
-| Back-end Development | [Udemy](https://www.udemy.com) | [Course](https://www.udemy.com/) | Jonas Schmedtmann |
-| Advanced CSS & SASS  | [Udemy](https://www.udemy.com) | [Course](https://www.udemy.com/) | Jonas Schmedtmann |
+| Stack                | Platform                       |  Instructor        |
+| -------------------- | ------------------------------ | ----------------- |
+| HTML & CSS           | [Course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)  | Jonas Schmedtmann |
+| JavaScript           | [Course](https://www.udemy.com/course/the-complete-javascript-course/) |  Jonas Schmedtmann |
+| Front-end (React.js) | [Course](https://www.udemy.com/course/the-ultimate-react-course/) | Jonas Schmedtmann |
+| Back-end Development | [Course](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) |  Jonas Schmedtmann |
+| Advanced CSS & SASS  | [Course](https://www.udemy.com/course/advanced-css-and-sass/) |  Jonas Schmedtmann |
 
 <br />
 
