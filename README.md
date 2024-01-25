@@ -1,14 +1,15 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Pranav-Jadhav09/WebDev-Resources?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/Pranav-Jadhav09/WebDev-Resources/)
 
-# Web Dev Resources
+# Resources
 
 </div>
 
 
 > [!NOTE]
-> This repository contains a curated list of study resources for **_Web Development_**. Whether you're a beginner or an experienced developer, you'll find valuable resources to enhance your skills and knowledge in this domains.
+> This repository contains a curated list of study resources of **_My Coding Journey_**. Whether you're a beginner or an experienced developer, you'll find valuable resources to enhance your skills and knowledge in this domains.
 
 <br />
 
