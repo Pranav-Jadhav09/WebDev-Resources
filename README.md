@@ -12,22 +12,21 @@
 
 <br />
 
-<!-- banner iteration -->
 ![method to learn](./bannernow1.png)
 
 <br />
 
-## 👨🏼‍💻 Aim
+## 👨🏼‍💻 `Aim`
 
 > [!Note]
 > 🚨 The **_aim_** of a **_Web Developer_** is to create functional, secure, and efficient websites and <b>Websites, Landing Pages, Web Applications, ChatBots, eCommerce Web Apps</b> that meet client and user requirements. <br /> <br /> ✅ On this earth we can make Website / Web App by using **_Code_** and **_No-Code_** tools.
-<br /> 👉🏻 Checkout [Roadmap](https://roadmap.sh) for roadmap related to different departments.
+<br /> 👉🏻 Checkout [Roadmap.sh](https://roadmap.sh) for roadmap related to various software departments.
 <br /> 🚀 This is What I Followed: [Codedamn Full Stack Roadmap](https://codedamn.com/learning-path/fullstack)
 
 
 <br />
 
-## Official Docs
+## 📚 `Docs`
 
 | Resource                                 | Link                                                                                                                                                                                      | Skills                          |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
@@ -38,7 +37,7 @@
 
 <br />
 
-## Courses
+## 👨🏼‍💻 `Courses`
 
 | Stack                | Link                       |  Instructor        |
 | -------------------- | ------------------------------ | ----------------- |
@@ -50,7 +49,7 @@
 
 <br />
 
-## Top 10 Repo To Learn JavaScript
+## 💯 `Top 10 Repo's for JavaScript`
 
 | Repository Name         | Repository Link                                                        |
 | ----------------------- | ---------------------------------------------------------------------- |
@@ -67,7 +66,7 @@
 
 <br />
 
-## Best YouTube Playlists
+## 📹 `Best YouTube Playlists`
 
 | Language / Tools         | Playlist                                                                                        | Channel Name                    |
 | ------------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------- |
