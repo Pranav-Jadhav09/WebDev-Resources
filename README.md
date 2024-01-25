@@ -17,28 +17,15 @@ This repository contains a curated list of study resources for **_Web Developmen
 
 ## Aim
 
-The **_aim_** of a **_Web Developer_** is to create functional, secure, and efficient websites and <b>Websites, Landing Pages, Web Applications, ChatBots, eCommerce Web Apps</b> that meet client and user requirements.
 
-On this earth we can make Web by using **_Code_** and **_No-Code_** tools as well like WordPress, etc.
+- The **_aim_** of a **_Web Developer_** is to create functional, secure, and efficient websites and <b>Websites, Landing Pages, Web Applications, ChatBots, eCommerce Web Apps</b> that meet client and user requirements.
 
-This is What I Followed: [Codedamn Full Stack Roadmap](https://codedamn.com/learning-path/fullstack)
+- On this earth we can make Website / Web App by using **_Code_** and **_No-Code_** tools.
 
-<br />
+- Checkout [Roadmap](https://roadmap.sh) for roadmap related to different departments.
 
-## Roadmaps
+- This is What I Followed: [Codedamn Full Stack Roadmap](https://codedamn.com/learning-path/fullstack)
 
-Choose the one which you like or are comfortable with:
-
-| Stack                  | Link                                     |
-| ---------------------- | ---------------------------------------- |
-| Front-end Development  | [Roadmap](https://roadmap.sh/frontend)   |
-| Back-end Development   | [Roadmap](https://roadmap.sh/backend)    |
-| Full Stack Development | [Roadmap](https://roadmap.sh/full-stack) |
-| JavaScript             | [Roadmap](https://roadmap.sh/javascript) |
-| TypeScript             | [Roadmap](https://roadmap.sh/typescript) |
-| React.js               | [Roadmap](https://roadmap.sh/react)      |
-| Node.js                | [Roadmap](https://roadmap.sh/nodejs)     |
-| MongoDB                | [Roadmap](https://roadmap.sh/mongodb)    |
 
 <br />
 
@@ -55,7 +42,7 @@ Choose the one which you like or are comfortable with:
 
 ## Best Courses I Personally Took
 
-| Stack                | Platform                       |  Instructor        |
+| Stack                | Link                       |  Instructor        |
 | -------------------- | ------------------------------ | ----------------- |
 | HTML & CSS           | [Course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)  | Jonas Schmedtmann |
 | JavaScript           | [Course](https://www.udemy.com/course/the-complete-javascript-course/) |  Jonas Schmedtmann |
