@@ -2,8 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Pranav-Jadhav09/WebDev-Resources?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/Pranav-Jadhav09/WebDev-Resources/)
-
-# Resources
+[![Bio Link](https://img.shields.io/badge/Bio.Link-000000%7D?style=flat&logo=biolink&logoColor=black)](https://thejrpranav.bio.link)
 
 </div>
 
@@ -20,14 +19,10 @@
 
 ## 👨🏼‍💻 Aim
 
-
-> The **_aim_** of a **_Web Developer_** is to create functional, secure, and efficient websites and <b>Websites, Landing Pages, Web Applications, ChatBots, eCommerce Web Apps</b> that meet client and user requirements.
-
-> On this earth we can make Website / Web App by using **_Code_** and **_No-Code_** tools.
-
-> Checkout [Roadmap](https://roadmap.sh) for roadmap related to different departments.
-
-> This is What I Followed: [Codedamn Full Stack Roadmap](https://codedamn.com/learning-path/fullstack)
+> [!Note]
+> 🚨 The **_aim_** of a **_Web Developer_** is to create functional, secure, and efficient websites and <b>Websites, Landing Pages, Web Applications, ChatBots, eCommerce Web Apps</b> that meet client and user requirements. <br /> <br /> ✅ On this earth we can make Website / Web App by using **_Code_** and **_No-Code_** tools.
+<br /> 👉🏻 Checkout [Roadmap](https://roadmap.sh) for roadmap related to different departments.
+<br /> 🚀 This is What I Followed: [Codedamn Full Stack Roadmap](https://codedamn.com/learning-path/fullstack)
 
 
 <br />
